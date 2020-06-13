@@ -1,0 +1,13 @@
+name: TO-RE
+title: TO-RE
+username:
+account: chronos2099
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2368536
+bundleId: 3264260
+url: https://chronos2099.shinyapps.io/TO-RE/
+when: 1592020300.69645
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|testmapapp broken.R|testmapapp.R|testplotly.R
